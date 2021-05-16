@@ -4,23 +4,17 @@
 
 🧑‍🎓 I'm master student majoring in computer science.
 
-🌏 I'm living in Kyoto, Japan.
-
 🔍 My research interest in network architecture for ITS.
-
-🌱 I'm currently learning TypeScript, Kubernetes, GraphQL, Jest...
 
 ## 🏆 My Skills
 
 ✏ Languages: `C++` `Python` `JavaScript` `Java` `Golang`
 
-✏ Framework: `Vue.js` `Angular.js` `Node.js` `Express.js` `Flask` `Ionic`
-
-✏ Database: `MySQL` `MongoDB` `SQLite`
+✏ Framework: `React` `Vue.js` `Node.js` `Express.js` `Ionic`
 
 ✏ DevOps: `AWS` `Firebase` `Docker` `GitHub`
 
-✏ Other: `Linux` `Cisco` `Adobe` `MATLAB` `Postman`
+✏ Other: `Linux` `Cisco` `Adobe` `MATLAB`
 
 ## ✨ Status
 
