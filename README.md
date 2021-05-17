@@ -14,7 +14,7 @@
 
 ✏ Languages: `C++` `Python` `JavaScript` `Java` `Golang`
 
-✏ Framework: `React` `Vue.js` `Node.js` `Express.js` `Ionic`
+✏ Framework: `React` `Next.js` `Vue.js` `Node.js` `Express.js` `Ionic`
 
 ✏ DevOps: `AWS` `Firebase` `Docker` `GitHub`
 
